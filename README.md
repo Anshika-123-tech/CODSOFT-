@@ -23,12 +23,6 @@ This repo contains a collection of beginner-friendly Python projects that focus 
 
 Follow these steps to run the projects locally:
 
-```bash
-# Clone this repository
 git clone https://github.com/<your-username>/CodSoft.git
-
-# Navigate into the folder
 cd CodSoft
-
-# Run any Python project
 python contact_book.py
